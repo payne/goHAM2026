@@ -227,11 +227,15 @@ Before you transmit, *listen*. SDR lets you:
 4. Tune to **1090 MHz**, run dump1090 — see aircraft on a map
 5. Find your local **2m FM repeater** — listen to actual HAM conversations
 
-### Tips:
-- Use the **waterfall display** — it shows the whole spectrum at once
+---
+
+## RTL-SDR: Tips & Tricks
+
+### Getting more from your SDR:
+- Use the **waterfall display** — it shows the entire spectrum at once
 - External antennas dramatically improve range
-- A **direct-sampling mod** extends coverage to HF/shortwave
-- V4 has built-in HF bias-T for active antennas
+- A **direct-sampling mod** extends coverage down to HF/shortwave
+- V4 has a built-in bias-T to power active antennas
 
 > *You just became a radio listener — welcome to the hobby.*
 
@@ -465,17 +469,24 @@ No license → Technician → General → Extra
 - **Limited HF:** 10 meters (28 MHz) — some phone/data/CW privileges
 - **Other bands:** 1.25m, 33cm, 23cm, and microwave allocations
 
-### What you'll study (35 questions from pool of 423):
-- **T1:** FCC rules and regulations
-- **T2:** Operating procedures
-- **T3:** Radio wave propagation
-- **T4:** Amateur radio practices
-- **T5:** Electrical principles
-- **T6:** Circuit components
-- **T7:** Station equipment
-- **T8:** Modulation modes and digital
-- **T9:** Antennas and feedlines
-- **T0:** RF safety and electrical safety
+---
+
+## Technician Exam: What You'll Study
+
+**35 questions from a pool of 423 — need 26 correct (74%) to pass**
+
+| Element | Topic |
+|---|---|
+| **T1** | FCC rules and regulations |
+| **T2** | Operating procedures |
+| **T3** | Radio wave propagation |
+| **T4** | Amateur radio practices |
+| **T5** | Electrical principles |
+| **T6** | Circuit components |
+| **T7** | Station equipment |
+| **T8** | Modulation modes and digital |
+| **T9** | Antennas and feedlines |
+| **T0** | RF safety and electrical safety |
 
 ---
 
@@ -529,7 +540,7 @@ No license → Technician → General → Extra
 
 ---
 
-## How to Get Licensed
+## How to Study for Your License
 
 ### Study resources:
 - **HamStudy.org** — free, adaptive spaced repetition, highly recommended
@@ -537,20 +548,28 @@ No license → Technician → General → Extra
 - **HamTestOnline.com** — paid but very thorough
 - **YouTube:** Ham Radio Crash Course, David Casler (KE0OG) study videos
 
-### Taking the exam:
-1. Study until you're passing practice exams at 80%+
-2. Find a **Volunteer Examiner session** near you
+### Study strategy:
+- 20–30 minutes/day on HamStudy flashcards
+- Take full practice exams once you know most material
+- Aim to score **80%+ consistently** before scheduling your test
+
+---
+
+## Taking the Exam
+
+### Steps:
+1. Find a **Volunteer Examiner session** near you
    - `arrl.org/find-an-amateur-radio-license-exam-session`
    - **Remote/online testing** via HamStudy ARRL VEC or W5YI
-3. Bring ID and $15–20 exam fee (varies by VEC)
-4. Pass 26/35 questions
-5. Your callsign appears in FCC ULS within **1–10 business days**
-6. You can operate as soon as your license appears in the database!
+2. Bring a photo ID and $15–20 exam fee (varies by VEC)
+3. Pass 26/35 questions (74%)
+4. Callsign appears in FCC ULS within **1–10 business days**
+5. You can operate as soon as your callsign is in the database!
 
-### Pro tip:
+### Pro tips:
 - Many clubs offer free **Elmer** (mentoring) programs
-- Consider testing for **all three licenses in one session** —
-  the exam fee is often the same, and you can test up immediately after passing
+- Consider testing for **all three licenses in one sitting** —
+  the fee is often the same, and you can test up immediately after each pass
 
 ---
 
@@ -686,13 +705,17 @@ Open WSJT-X → Tune to FT8 frequency → Watch decodes appear
 → Double-click a station → Exchange automated → Log confirmed contact
 ```
 
+---
+
+## FT8: Why It Changed Everything
+
 ### Why it's revolutionary:
 - QRP (5W) contacts to Europe from a wire antenna in a small yard
 - Opens up HF for people with HOA antenna restrictions
 - Proves a contact is possible when voice conditions are too poor
 - Massive uptake: FT8 is now **the most popular HF data mode**
 
-### Controversy:
+### The controversy:
 > "It's not *real* radio — a computer does everything!"
 > vs.
 > "It's the most efficient use of spectrum ever devised."
@@ -701,7 +724,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ---
 
-## JS8Call, APRS & Weak Signal Modes
+## JS8Call & APRS
 
 ### JS8Call — Keyboard FT8
 - Based on FT8 encoding, but **human-typed messages**
@@ -717,11 +740,24 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Digipeaters extend range, I-Gates connect to internet
 - Supported in Kenwood, Yaesu, and virtually all modern radios
 
-### Other digital modes:
-- **PSK31** — classic keyboard-to-keyboard mode, narrow bandwidth
+---
+
+## More Digital Data Modes
+
+### Other keyboard & data modes:
+- **PSK31** — classic keyboard-to-keyboard mode, very narrow bandwidth
 - **RTTY** — radioteletype, still used in contesting
-- **Olivia** — extremely robust, keyboard chat, poor conditions
-- **WSPR** — Weak Signal Propagation Reporter, beacon mode for propagation testing
+- **Olivia** — extremely robust keyboard chat in poor conditions
+- **WSPR** — Weak Signal Propagation Reporter, beacon mode for testing
+
+### Choosing a mode:
+| Goal | Use |
+|---|---|
+| Just get on HF fast | FT8 |
+| Chat with a person | JS8Call or PSK31 |
+| Track positions/weather | APRS |
+| Map propagation | WSPR |
+| Emergency email | VARA / Winlink |
 
 ---
 
@@ -853,15 +889,20 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Callsign routing: `CQCQCQ` or specific callsigns across reflectors
 - **Reflectors:** DCS, XRF, REF — link repeaters worldwide
 
-### The ecosystem:
-- **DVMega, OpenSpot** hotspots
-- `dstarinfo.com`, `dstarusers.org`
+---
+
+## D-STAR: Ecosystem & Community
+
+### Hardware & infrastructure:
+- **DVMega, OpenSpot** hotspots — connect to reflectors via home Wi-Fi
+- `dstarinfo.com`, `dstarusers.org` — repeater directories and news
 - **Icom IC-9700, ID-52, ID-51** — current popular radios
 
 ### D-STAR appeal:
 - Excellent legacy infrastructure in many regions
 - Very active in Japan and Europe
 - Callsign-based routing feels natural to amateur operators
+- Works well with modest antennas and handheld power levels
 
 ---
 
@@ -1073,16 +1114,25 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Antenna builds and installation guides
 
 ### Why it works:
-- Josh approaches every topic as if explaining to his past self
-- Doesn't assume prior knowledge
+- Approaches every topic as if explaining to his past self
 - High production value — watchable even for non-hams
-- Regular uploads, engaged community
 
-### Other great YouTube channels:
-- **David Casler KE0OG** — structured licensing study videos
-- **W2AEW** — deep electronics theory, oscilloscope tutorials
-- **TechMinds** — SDR, software, technology crossover
-- **DX Commander (Callum)** — antenna builds and DX operating
+---
+
+## More Ham Radio on YouTube
+
+### Essential channels for new operators:
+
+| Channel | Best for |
+|---|---|
+| **Ham Radio Crash Course** | General beginner content, POTA |
+| **David Casler KE0OG** | Structured licensing study |
+| **W2AEW** | Electronics theory, oscilloscope skills |
+| **TechMinds** | SDR, software, tech crossover |
+| **DX Commander (Callum)** | Antenna builds and DX operating |
+
+> Between HamStudy flashcards and YouTube, you can learn everything
+> you need to get licensed without leaving your couch.
 
 ---
 
@@ -1188,15 +1238,19 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **Shelter registration** — radio links between shelters
 - **Spotting for NWS** — severe weather reporting (SKYWARN)
 
-### ARES training:
-- **ICS 100 and 700** — free FEMA online courses (required)
+---
+
+## ARES: Training & Technology
+
+### Training required:
+- **ICS 100 and 700** — free FEMA online courses (required by most groups)
 - **ARRL EC-001** — Introduction to Emergency Communications
-- Regular **training nets** and exercises
+- Regular **training nets** and tabletop exercises
 - Annual **Simulated Emergency Test (SET)**
 
-### The technology ARES uses:
-- FM voice on 2m/70cm — the backbone
-- **Winlink/VARA** — radio email for formal traffic
+### Technology ARES uses:
+- FM voice on 2m/70cm — the reliable backbone
+- **Winlink/VARA** — radio email for formal message traffic
 - **APRS** — situational awareness and resource tracking
 - **MESH/AREDN** — IP networking over radio for large incidents
 
@@ -1231,7 +1285,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ---
 
-## More Activities to Explore
+## More Activities: Contesting & SOTA
 
 ### Contesting:
 - **CQ WW, ARRL DX, 7QP** — hundreds of contests per year
@@ -1241,23 +1295,26 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ### SOTA — Summits on the Air:
 - Similar to POTA but specifically for **mountain summits**
-- Must be within 25m of the actual summit, elevation requirements
+- Must operate within 25 vertical meters of the summit
 - Serious portable operating — often QRP with tiny antennas
 - Global program: `sota.org.uk`
+
+---
+
+## More Activities: Satellites & Weak Signal
 
 ### Satellite Operation:
 - Amateur satellites in orbit: **SO-50, AO-91, AO-92, ISS**
 - Technician can work satellites with a dual-band handheld + yagi
-- ISS occasionally schedutes **SSTV events** sending images to Earth
-- `amsat.org` — satellite tracking and schedules
+- ISS occasionally schedules **SSTV events** — receive space images
+- `amsat.org` — satellite tracking, schedules, and getting started
 
 ### Digital Weak Signal (WSJT-X Modes):
 - **EME (Earth-Moon-Earth)** — bounce signals off the moon
-- **Meteor Scatter** — use meteor trails as reflectors
-- **MS-TROPICS** — tropospheric ducting contacts 1000+ km on VHF
+- **Meteor Scatter** — use meteor trails as radio reflectors
+- **Troposcatter** — ducting contacts 1000+ km on VHF/UHF
 
-### VHF/UHF Contesting, Hamvention, public service events...
-
+> VHF/UHF contesting, Hamvention, public service events...
 > There is *always* something to do in amateur radio. Always.
 
 ---
@@ -1290,11 +1347,24 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - [ ] 15–30 minutes per day of flashcard practice
 - [ ] Schedule your exam when you're consistently passing at 80%+
 
-### After passing:
+---
+
+## After You're Licensed
+
+### First month on the air:
 - [ ] Find a local club — attend a meeting
 - [ ] Get on 2m FM — make your first repeater contact
-- [ ] Go to a **Field Day** — even as an observer
-- [ ] Explore POTA — it's free and you can start with a Technician
+- [ ] Go to a **Field Day** — even just as an observer
+- [ ] Explore POTA — Technicians can activate on 2m FM
+
+### Keep progressing:
+- [ ] Study for **General** — unlock HF and global contacts
+- [ ] Set up a **Winlink** station for emergency preparedness
+- [ ] Try a **DMR hotspot** — talk to the world from your desk
+- [ ] Attend **Hamvention** or a regional hamfest
+
+> The hardest part is making that first contact.
+> After that, you'll never want to stop.
 
 ---
 

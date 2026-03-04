@@ -37,5 +37,18 @@ Session ID: `4f345f62...`
 
 **Claude Response:** Added `background: #0f172a; color: #e2e8f0;` to the `td` CSS rule in all 10 slide files. The odd rows (which had no explicit background, defaulting to white) now match the dark page background. Even rows remain `#1e293b` for subtle striping. Rebuilt `combined.md`.
 
+### User Prompt 6
+> Many of the slides have content near the bottom that is cut off. Fix this. It's ok to have more slides. Avoid having slides with content we can not read at the bottom.
+
+**Claude Response:** Split 9 overflowing slides across 7 files. New slides added:
+- `01_rtlsdr`: "Getting Started" → split off "RTL-SDR: Tips & Tricks"
+- `04_licensing`: "Technician License" → split off "Technician Exam: What You'll Study"; "How to Get Licensed" → split off "Taking the Exam"
+- `05_analog_modes`: "FT8" → split off "FT8: Why It Changed Everything"; "JS8Call/APRS" → split off "More Digital Data Modes"
+- `06_digital_voice`: "D-STAR" → split off "D-STAR: Ecosystem & Community"
+- `07_organizations`: "HRCC" → split off "More Ham Radio on YouTube"
+- `08_activities`: "ARES" → split off "ARES: Training & Technology"; "More Activities" → split off "More Activities: Satellites & Weak Signal"
+- `09_conclusion`: "Starter Playbook" → split off "After You're Licensed"
+Total slides grew from ~60 to ~70. Rebuilt `combined.md`.
+
 ---
 

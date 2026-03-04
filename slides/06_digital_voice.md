@@ -100,15 +100,20 @@ header: "Getting Started in HAM Radio — 2026"
 - Callsign routing: `CQCQCQ` or specific callsigns across reflectors
 - **Reflectors:** DCS, XRF, REF — link repeaters worldwide
 
-### The ecosystem:
-- **DVMega, OpenSpot** hotspots
-- `dstarinfo.com`, `dstarusers.org`
+---
+
+## D-STAR: Ecosystem & Community
+
+### Hardware & infrastructure:
+- **DVMega, OpenSpot** hotspots — connect to reflectors via home Wi-Fi
+- `dstarinfo.com`, `dstarusers.org` — repeater directories and news
 - **Icom IC-9700, ID-52, ID-51** — current popular radios
 
 ### D-STAR appeal:
 - Excellent legacy infrastructure in many regions
 - Very active in Japan and Europe
 - Callsign-based routing feels natural to amateur operators
+- Works well with modest antennas and handheld power levels
 
 ---
 

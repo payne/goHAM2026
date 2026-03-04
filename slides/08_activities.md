@@ -102,15 +102,19 @@ header: "Getting Started in HAM Radio — 2026"
 - **Shelter registration** — radio links between shelters
 - **Spotting for NWS** — severe weather reporting (SKYWARN)
 
-### ARES training:
-- **ICS 100 and 700** — free FEMA online courses (required)
+---
+
+## ARES: Training & Technology
+
+### Training required:
+- **ICS 100 and 700** — free FEMA online courses (required by most groups)
 - **ARRL EC-001** — Introduction to Emergency Communications
-- Regular **training nets** and exercises
+- Regular **training nets** and tabletop exercises
 - Annual **Simulated Emergency Test (SET)**
 
-### The technology ARES uses:
-- FM voice on 2m/70cm — the backbone
-- **Winlink/VARA** — radio email for formal traffic
+### Technology ARES uses:
+- FM voice on 2m/70cm — the reliable backbone
+- **Winlink/VARA** — radio email for formal message traffic
 - **APRS** — situational awareness and resource tracking
 - **MESH/AREDN** — IP networking over radio for large incidents
 
@@ -145,7 +149,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 ---
 
-## More Activities to Explore
+## More Activities: Contesting & SOTA
 
 ### Contesting:
 - **CQ WW, ARRL DX, 7QP** — hundreds of contests per year
@@ -155,21 +159,24 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### SOTA — Summits on the Air:
 - Similar to POTA but specifically for **mountain summits**
-- Must be within 25m of the actual summit, elevation requirements
+- Must operate within 25 vertical meters of the summit
 - Serious portable operating — often QRP with tiny antennas
 - Global program: `sota.org.uk`
+
+---
+
+## More Activities: Satellites & Weak Signal
 
 ### Satellite Operation:
 - Amateur satellites in orbit: **SO-50, AO-91, AO-92, ISS**
 - Technician can work satellites with a dual-band handheld + yagi
-- ISS occasionally schedutes **SSTV events** sending images to Earth
-- `amsat.org` — satellite tracking and schedules
+- ISS occasionally schedules **SSTV events** — receive space images
+- `amsat.org` — satellite tracking, schedules, and getting started
 
 ### Digital Weak Signal (WSJT-X Modes):
 - **EME (Earth-Moon-Earth)** — bounce signals off the moon
-- **Meteor Scatter** — use meteor trails as reflectors
-- **MS-TROPICS** — tropospheric ducting contacts 1000+ km on VHF
+- **Meteor Scatter** — use meteor trails as radio reflectors
+- **Troposcatter** — ducting contacts 1000+ km on VHF/UHF
 
-### VHF/UHF Contesting, Hamvention, public service events...
-
+> VHF/UHF contesting, Hamvention, public service events...
 > There is *always* something to do in amateur radio. Always.

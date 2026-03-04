@@ -53,11 +53,24 @@ header: "Getting Started in HAM Radio — 2026"
 - [ ] 15–30 minutes per day of flashcard practice
 - [ ] Schedule your exam when you're consistently passing at 80%+
 
-### After passing:
+---
+
+## After You're Licensed
+
+### First month on the air:
 - [ ] Find a local club — attend a meeting
 - [ ] Get on 2m FM — make your first repeater contact
-- [ ] Go to a **Field Day** — even as an observer
-- [ ] Explore POTA — it's free and you can start with a Technician
+- [ ] Go to a **Field Day** — even just as an observer
+- [ ] Explore POTA — Technicians can activate on 2m FM
+
+### Keep progressing:
+- [ ] Study for **General** — unlock HF and global contacts
+- [ ] Set up a **Winlink** station for emergency preparedness
+- [ ] Try a **DMR hotspot** — talk to the world from your desk
+- [ ] Attend **Hamvention** or a regional hamfest
+
+> The hardest part is making that first contact.
+> After that, you'll never want to stop.
 
 ---
 

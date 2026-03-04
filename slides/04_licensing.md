@@ -69,17 +69,24 @@ No license → Technician → General → Extra
 - **Limited HF:** 10 meters (28 MHz) — some phone/data/CW privileges
 - **Other bands:** 1.25m, 33cm, 23cm, and microwave allocations
 
-### What you'll study (35 questions from pool of 423):
-- **T1:** FCC rules and regulations
-- **T2:** Operating procedures
-- **T3:** Radio wave propagation
-- **T4:** Amateur radio practices
-- **T5:** Electrical principles
-- **T6:** Circuit components
-- **T7:** Station equipment
-- **T8:** Modulation modes and digital
-- **T9:** Antennas and feedlines
-- **T0:** RF safety and electrical safety
+---
+
+## Technician Exam: What You'll Study
+
+**35 questions from a pool of 423 — need 26 correct (74%) to pass**
+
+| Element | Topic |
+|---|---|
+| **T1** | FCC rules and regulations |
+| **T2** | Operating procedures |
+| **T3** | Radio wave propagation |
+| **T4** | Amateur radio practices |
+| **T5** | Electrical principles |
+| **T6** | Circuit components |
+| **T7** | Station equipment |
+| **T8** | Modulation modes and digital |
+| **T9** | Antennas and feedlines |
+| **T0** | RF safety and electrical safety |
 
 ---
 
@@ -133,7 +140,7 @@ No license → Technician → General → Extra
 
 ---
 
-## How to Get Licensed
+## How to Study for Your License
 
 ### Study resources:
 - **HamStudy.org** — free, adaptive spaced repetition, highly recommended
@@ -141,20 +148,28 @@ No license → Technician → General → Extra
 - **HamTestOnline.com** — paid but very thorough
 - **YouTube:** Ham Radio Crash Course, David Casler (KE0OG) study videos
 
-### Taking the exam:
-1. Study until you're passing practice exams at 80%+
-2. Find a **Volunteer Examiner session** near you
+### Study strategy:
+- 20–30 minutes/day on HamStudy flashcards
+- Take full practice exams once you know most material
+- Aim to score **80%+ consistently** before scheduling your test
+
+---
+
+## Taking the Exam
+
+### Steps:
+1. Find a **Volunteer Examiner session** near you
    - `arrl.org/find-an-amateur-radio-license-exam-session`
    - **Remote/online testing** via HamStudy ARRL VEC or W5YI
-3. Bring ID and $15–20 exam fee (varies by VEC)
-4. Pass 26/35 questions
-5. Your callsign appears in FCC ULS within **1–10 business days**
-6. You can operate as soon as your license appears in the database!
+2. Bring a photo ID and $15–20 exam fee (varies by VEC)
+3. Pass 26/35 questions (74%)
+4. Callsign appears in FCC ULS within **1–10 business days**
+5. You can operate as soon as your callsign is in the database!
 
-### Pro tip:
+### Pro tips:
 - Many clubs offer free **Elmer** (mentoring) programs
-- Consider testing for **all three licenses in one session** —
-  the exam fee is often the same, and you can test up immediately after passing
+- Consider testing for **all three licenses in one sitting** —
+  the fee is often the same, and you can test up immediately after each pass
 
 ---
 

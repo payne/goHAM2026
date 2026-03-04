@@ -106,10 +106,14 @@ Before you transmit, *listen*. SDR lets you:
 4. Tune to **1090 MHz**, run dump1090 — see aircraft on a map
 5. Find your local **2m FM repeater** — listen to actual HAM conversations
 
-### Tips:
-- Use the **waterfall display** — it shows the whole spectrum at once
+---
+
+## RTL-SDR: Tips & Tricks
+
+### Getting more from your SDR:
+- Use the **waterfall display** — it shows the entire spectrum at once
 - External antennas dramatically improve range
-- A **direct-sampling mod** extends coverage to HF/shortwave
-- V4 has built-in HF bias-T for active antennas
+- A **direct-sampling mod** extends coverage down to HF/shortwave
+- V4 has a built-in bias-T to power active antennas
 
 > *You just became a radio listener — welcome to the hobby.*

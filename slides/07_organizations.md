@@ -157,16 +157,25 @@ header: "Getting Started in HAM Radio — 2026"
 - Antenna builds and installation guides
 
 ### Why it works:
-- Josh approaches every topic as if explaining to his past self
-- Doesn't assume prior knowledge
+- Approaches every topic as if explaining to his past self
 - High production value — watchable even for non-hams
-- Regular uploads, engaged community
 
-### Other great YouTube channels:
-- **David Casler KE0OG** — structured licensing study videos
-- **W2AEW** — deep electronics theory, oscilloscope tutorials
-- **TechMinds** — SDR, software, technology crossover
-- **DX Commander (Callum)** — antenna builds and DX operating
+---
+
+## More Ham Radio on YouTube
+
+### Essential channels for new operators:
+
+| Channel | Best for |
+|---|---|
+| **Ham Radio Crash Course** | General beginner content, POTA |
+| **David Casler KE0OG** | Structured licensing study |
+| **W2AEW** | Electronics theory, oscilloscope skills |
+| **TechMinds** | SDR, software, tech crossover |
+| **DX Commander (Callum)** | Antenna builds and DX operating |
+
+> Between HamStudy flashcards and YouTube, you can learn everything
+> you need to get licensed without leaving your couch.
 
 ---
 

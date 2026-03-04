@@ -131,13 +131,17 @@ Open WSJT-X → Tune to FT8 frequency → Watch decodes appear
 → Double-click a station → Exchange automated → Log confirmed contact
 ```
 
+---
+
+## FT8: Why It Changed Everything
+
 ### Why it's revolutionary:
 - QRP (5W) contacts to Europe from a wire antenna in a small yard
 - Opens up HF for people with HOA antenna restrictions
 - Proves a contact is possible when voice conditions are too poor
 - Massive uptake: FT8 is now **the most popular HF data mode**
 
-### Controversy:
+### The controversy:
 > "It's not *real* radio — a computer does everything!"
 > vs.
 > "It's the most efficient use of spectrum ever devised."
@@ -146,7 +150,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ---
 
-## JS8Call, APRS & Weak Signal Modes
+## JS8Call & APRS
 
 ### JS8Call — Keyboard FT8
 - Based on FT8 encoding, but **human-typed messages**
@@ -162,11 +166,24 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Digipeaters extend range, I-Gates connect to internet
 - Supported in Kenwood, Yaesu, and virtually all modern radios
 
-### Other digital modes:
-- **PSK31** — classic keyboard-to-keyboard mode, narrow bandwidth
+---
+
+## More Digital Data Modes
+
+### Other keyboard & data modes:
+- **PSK31** — classic keyboard-to-keyboard mode, very narrow bandwidth
 - **RTTY** — radioteletype, still used in contesting
-- **Olivia** — extremely robust, keyboard chat, poor conditions
-- **WSPR** — Weak Signal Propagation Reporter, beacon mode for propagation testing
+- **Olivia** — extremely robust keyboard chat in poor conditions
+- **WSPR** — Weak Signal Propagation Reporter, beacon mode for testing
+
+### Choosing a mode:
+| Goal | Use |
+|---|---|
+| Just get on HF fast | FT8 |
+| Chat with a person | JS8Call or PSK31 |
+| Track positions/weather | APRS |
+| Map propagation | WSPR |
+| Emergency email | VARA / Winlink |
 
 ---
 
