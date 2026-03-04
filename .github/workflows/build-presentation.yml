@@ -1,0 +1,61 @@
+name: Build Marp Presentation
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "slides/**"
+      - "combine.sh"
+      - ".github/workflows/build-presentation.yml"
+  workflow_dispatch: # Allow manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write # Needed to commit built files back to the repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so the commit step can push cleanly
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Make combine.sh executable
+        run: chmod +x combine.sh
+
+      - name: Combine slide sections into combined.md
+        run: ./combine.sh
+
+      - name: Build combined.html
+        run: |
+          npx --yes @marp-team/marp-cli@latest \
+            combined.md \
+            --html \
+            --allow-local-files \
+            -o combined.html
+
+      - name: Copy to index.html (GitHub Pages entry point)
+        run: cp combined.html index.html
+
+      - name: Commit and push built files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add combined.md combined.html index.html
+          # Only commit if something actually changed
+          if git diff --staged --quiet; then
+            echo "No changes to built files — skipping commit."
+          else
+            git commit -m "ci: rebuild presentation [skip ci]"
+            git push
+          fi

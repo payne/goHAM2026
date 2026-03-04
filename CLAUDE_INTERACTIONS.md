@@ -27,5 +27,10 @@ Session ID: `4f345f62...`
 
 **Claude Response:** Added `github.com/payne/goHAM2026` as a code-formatted line below the callsign/date on the title slide in `slides/00_title.md`. Rebuilt `combined.md`.
 
+### User Prompt 4
+> Add github automation so that anytime a change is pushed to one of the MARP source files, the presentation is rebuilt. Keep the presentation in both combined.html and index.html
+
+**Claude Response:** Created `.github/workflows/build-presentation.yml` — triggers on push to main/master when `slides/**` or `combine.sh` changes, runs combine.sh + marp-cli, commits `combined.html` and `index.html` back to the repo. Added `.gitignore`. Updated README with GitHub Pages setup instructions.
+
 ---
 

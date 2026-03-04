@@ -59,6 +59,27 @@ npx @marp-team/marp-cli combined.md --pptx -o presentation.pptx
 
 ---
 
+## GitHub Actions — Automated Builds
+
+Pushing any change to `slides/**` or `combine.sh` automatically:
+1. Runs `combine.sh` to merge section files → `combined.md`
+2. Renders `combined.html` and `index.html` via marp-cli
+3. Commits the built files back to the same branch
+
+Workflow: `.github/workflows/build-presentation.yml`
+
+### Enable GitHub Pages to serve the presentation:
+1. Go to **Settings → Pages** in your GitHub repo
+2. Set Source to **Deploy from a branch**
+3. Set Branch to `main` (or `master`), folder `/` (root)
+4. Save — your presentation will be live at:
+   `https://payne.github.io/goHAM2026/`
+
+`index.html` is the GitHub Pages entry point; `combined.html` is identical
+and kept for direct linking convenience.
+
+---
+
 ## Rendering Setup
 
 ### VS Code (recommended for editing):
