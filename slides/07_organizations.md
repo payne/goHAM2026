@@ -64,21 +64,24 @@ header: "Getting Started in HAM Radio — 2026"
 **The newsletter connecting the innovators of amateur radio.**
 
 ### What is Zero Retries?
-- Weekly newsletter by **Steve Stroh N8GNJ** (previously **Michael KI7MT**)
+- Weekly newsletter by **Steve Stroh N8GNJ**
 - Focus on **amateur radio innovation** — not just traditional contesting/DX
 - Covers: digital modes, software, mesh networking, new organizations
-- Free to subscribe at `zereoretries.info`
+- Free to subscribe at `zeroretries.info`
 
-### What you'll find in Zero Retries:
+### What you'll find:
 - Project announcements and updates
 - Interviews with builders and innovators
-- Links to open source projects
-- Governance and regulatory issues
+- Links to open source projects and governance issues
 - The "new guard" of amateur radio thought
 
-### Why subscribe:
+---
+
+## Zero Retries: Why Subscribe
+
+### What makes it worth your time:
 - Cuts through the noise — highly curated signal
-- Covers projects months before they hit mainstream
+- Covers projects months before they hit mainstream ham media
 - Connects you to forward-thinking community members
 - Archive of past issues is a goldmine of project ideas
 
@@ -93,21 +96,28 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### What is EtherHam?
 - Community focused on **networking, Linux, and amateur radio**
-- Discussion forum, Discord server, collaborative projects
-- Appeals to the **tech/IT/sysadmin crossover** ham operator demographic
-- Strong interest in: mesh networking, Winlink, digital infrastructure
+- Discord server, forum, collaborative projects
+- Appeals to the **tech/IT/sysadmin crossover** ham demographic
 
 ### EtherHam interests:
 - **AREDN** (Amateur Radio Emergency Data Network) mesh
-- Wireguard/VPN over amateur radio
+- Wireguard/VPN tunneling over amateur radio
 - **OpenWRT on radio hardware**
-- Amateur radio with Raspberry Pi, SDR platforms
-- Software-defined radio for infrastructure monitoring
+- Raspberry Pi, SDR, and software-defined infrastructure
 
-### Finding EtherHam:
-- Discord server: active technical discussions
-- Topics bridge the gap between professional networking and amateur radio
-- Great place to ask "how do I run this over radio" questions
+---
+
+## EtherHam: Finding the Community
+
+### Where to engage:
+- **Discord server** — active technical discussions daily
+- Topics bridge professional networking and amateur radio
+- Great place for "how do I run X over radio?" questions
+
+### Who it's for:
+- Network engineers, Linux sysadmins, DevOps folks
+- Anyone who thinks about radio as infrastructure
+- Operators who want to go deeper than voice contacts
 
 > If you're a network engineer or Linux sysadmin who's just getting into radio,
 > EtherHam is *your* community.

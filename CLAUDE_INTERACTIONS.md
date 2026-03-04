@@ -73,3 +73,16 @@ Deck grew from ~60 to ~70 slides. GitHub Actions will rebuild the HTML automatic
 
 ---
 
+### User Prompt 7
+> Slides 19, 25 and others still have content being cut off on the bottom — fix that. Add the date & time the deck was last built to the first slide.
+
+**Claude Response:** Identified slides 19 ("GMRS → HAM: The Bridge") and 25 ("Extra License") plus 6 more overflowing slides. Split all 8 and added build timestamp:
+- `03_gmrs`: GMRS→HAM → "Skills That Transfer" + "GMRS vs. HAM Technician" (table only)
+- `04_licensing`: Extra License → + "Extra License: The Challenge"
+- `05_analog_modes`: FM → + "FM: Getting Started"; SSB → + "SSB: Equipment"
+- `06_digital_voice`: DMR → + "DMR: Hardware & Getting Started"; C4FM → + "C4FM: Why It Works"
+- `07_organizations`: Zero Retries → + "Zero Retries: Why Subscribe"; EtherHam → + "EtherHam: Finding the Community"
+- Added `*Built: BUILD_TIMESTAMP*` placeholder to title slide; workflow injects UTC date+time via `sed` after combine.sh but before marp-cli. Slide count: ~70 → ~78.
+
+---
+

@@ -77,17 +77,21 @@ header: "Getting Started in HAM Radio — 2026"
 
 ---
 
-## GMRS → HAM: The Bridge
+## GMRS → HAM: Skills That Transfer
 
 GMRS gives you practical radio experience before taking the HAM exam.
 
-### Skills that transfer:
+### Skills that carry over directly:
 - Understanding repeaters (inputs, outputs, CTCSS tones)
 - Radio operating procedures and etiquette
 - Antenna and coax fundamentals
 - Emergency communications mentality
 
-### Key differences — GMRS vs. HAM Technician:
+> Many operators hold **both** GMRS and HAM licenses — they complement each other
+
+---
+
+## GMRS vs. HAM Technician
 
 | Feature | GMRS | HAM Technician |
 |---|---|---|
@@ -99,5 +103,3 @@ GMRS gives you practical radio experience before taking the HAM exam.
 | HF privileges | None | Some (10m, 6m) |
 | Digital modes | Limited | Full access |
 | Global linking | Limited | Full (EchoLink, etc.) |
-
-> Many operators hold **both** GMRS and HAM licenses — they complement each other

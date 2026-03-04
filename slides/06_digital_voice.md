@@ -70,16 +70,20 @@ header: "Getting Started in HAM Radio — 2026"
 - **TGIF** — alternative, more open network
 - Talkgroups: `TG 91` (World English), `TG 93` (NA), regional/local TGs
 
+---
+
+## DMR: Hardware & Getting Started
+
 ### Hardware:
 - **TYT MD-380/390** — ~$65, the original popular DMR HT
 - **Radioddity GD-73** — compact, excellent value
 - **Anytone AT-D878UV** — feature-packed, popular upgrade
-- **Hotspot** — MMDVM or Pi-Star/BlueDV connecting you to BrandMeister via home Wi-Fi
+- **Hotspot** — MMDVM or Pi-Star/BlueDV — connects to BrandMeister via Wi-Fi
 
 ### Getting started:
 1. Buy a DMR radio
 2. Register on `radioid.net` for your **DMR ID** (free)
-3. Program repeaters or set up a hotspot
+3. Program local repeaters or set up a hotspot
 4. Join Talkgroup 91 and say hello
 
 ---
@@ -125,23 +129,27 @@ header: "Getting Started in HAM Radio — 2026"
 - **C4FM** = Continuous 4-level FM — the modulation scheme
 - Yaesu's brand name: **System Fusion**
 - **AMBE+2** codec (same as D-STAR)
-- Easy adoption: many C4FM repeaters operate in **auto mode**, accepting both analog FM and digital C4FM callers
+- Many C4FM repeaters run in **auto mode** — accepts both analog FM and digital
 
 ### WIRES-X Network:
 - Yaesu's internet-linking platform
 - **Rooms and Nodes** — similar to Echolink but C4FM native
 - Thousands of rooms worldwide, many active communities
 
+---
+
+## C4FM: Why It Works
+
 ### Why operators like C4FM:
 - Seamless analog/digital coexistence on same repeater
-- Good audio quality
-- WIRES-X rooms are easy to navigate from the radio itself
-- Yaesu makes excellent radios: FT-70D (~$180), FT3DR, FTM-500D
+- Good audio quality with no extra setup for analog users
+- WIRES-X rooms are easy to navigate directly from the radio
+- Yaesu makes excellent radios: **FT-70D** (~$180), FT3DR, FTM-500D
 
 ### C4FM in 2026:
-- Very active in North America, Japan, Europe
-- Compatible with **YSF (Yaesu System Fusion)** reflectors
-- Accessible through Pi-Star/BlueDV hotspots
+- Very active in North America, Japan, and Europe
+- Compatible with **YSF** reflectors via Pi-Star/BlueDV hotspots
+- Great entry point if your local club runs a Fusion repeater
 
 ---
 

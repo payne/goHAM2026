@@ -102,6 +102,8 @@ header: "Getting Started in HAM Radio — 2026"
 
 `github.com/payne/goHAM2026`
 
+*Built: BUILD_TIMESTAMP*
+
 ---
 
 <!-- _class: section-title -->

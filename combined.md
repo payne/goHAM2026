@@ -102,6 +102,8 @@ header: "Getting Started in HAM Radio — 2026"
 
 `github.com/payne/goHAM2026`
 
+*Built: BUILD_TIMESTAMP*
+
 ---
 
 <!-- _class: section-title -->
@@ -398,17 +400,21 @@ No step is mandatory — but each one opens new doors.
 
 ---
 
-## GMRS → HAM: The Bridge
+## GMRS → HAM: Skills That Transfer
 
 GMRS gives you practical radio experience before taking the HAM exam.
 
-### Skills that transfer:
+### Skills that carry over directly:
 - Understanding repeaters (inputs, outputs, CTCSS tones)
 - Radio operating procedures and etiquette
 - Antenna and coax fundamentals
 - Emergency communications mentality
 
-### Key differences — GMRS vs. HAM Technician:
+> Many operators hold **both** GMRS and HAM licenses — they complement each other
+
+---
+
+## GMRS vs. HAM Technician
 
 | Feature | GMRS | HAM Technician |
 |---|---|---|
@@ -420,8 +426,6 @@ GMRS gives you practical radio experience before taking the HAM exam.
 | HF privileges | None | Some (10m, 6m) |
 | Digital modes | Limited | Full access |
 | Global linking | Limited | Full (EchoLink, etc.) |
-
-> Many operators hold **both** GMRS and HAM licenses — they complement each other
 
 ---
 
@@ -529,11 +533,20 @@ No license → Technician → General → Extra
 - Respected in the community — shows deep commitment
 - The "extra" sub-bands are noticeably quieter during contests
 
-### The challenge:
-- 50 questions from a pool of 622
-- Covers advanced electronics, RF theory, antenna design
+---
+
+## Extra License: The Challenge
+
+### What the exam covers:
+- 50 questions from a pool of 622 (need 37 correct)
+- Advanced electronics and RF theory
+- Antenna design and feedline matching
 - Digital signal processing, operating procedures, regulations
+
+### How to approach it:
 - Takes most people several months of serious study
+- HamStudy.org adaptive flashcards are the most efficient path
+- Many operators upgrade within a year of getting their General
 
 > "The Extra exam is not a test of intelligence —
 > it's a test of *dedication.*" — common saying in the community
@@ -641,24 +654,33 @@ Different modes excel at different things:
 ### How FM works:
 - **Frequency Modulation** — voice varies the carrier frequency
 - Clean, full-quieting audio when signal is strong
-- Cliff-edge reception: strong = crystal clear, weak = noise, nothing in between
+- Cliff-edge reception: crystal clear when strong, noise floor when weak
 
 ### 2-meter FM (144–148 MHz):
 - Most active HAM band for new operators
 - **Repeaters everywhere** — extend handheld range to 30–100+ km
 - Repeater directories: `repeaterbook.com`
-- **CTCSS/DCS tones** — subaudible tones to open repeaters
+- **CTCSS/DCS tones** — subaudible tones to access repeaters
 
 ### 70cm FM (420–450 MHz):
 - Less congested than 2m in many areas
-- More repeaters, digital voice repeaters
-- APRS digipeaters and satellites
+- Digital voice repeaters (DMR, C4FM) are common on 70cm
 
-### Getting started with FM:
+---
+
+## FM: Getting Started
+
+### Recommended first radios:
 - **Baofeng UV-5R** (~$25) — inexpensive, controversial, works
-- **Yaesu FT-65** (~$75) — quality budget handheld
-- **TYT MD-380** (~$65) — FM + DMR digital voice
-- **Wouxun KG-935G** — FM + GMRS capable
+- **Yaesu FT-65** (~$75) — quality budget handheld, highly recommended
+- **TYT MD-380** (~$65) — FM + DMR digital voice in one radio
+- **Wouxun KG-935G** — FM + GMRS capable, good build quality
+
+### First steps on FM:
+1. Program your local repeater into the radio (input, output, CTCSS tone)
+2. Listen to the repeater during commute hours — most active time
+3. Wait for a break, key up, say your callsign
+4. Someone will likely come back — that's your first contact!
 
 ---
 
@@ -678,14 +700,24 @@ Different modes excel at different things:
 
 ### Why SSB?
 - **DX** — talking across continents with 100W or less
-- **QRP** — very low power (5W or less) — global contacts are achievable
+- **QRP** — 5W or less — global contacts are achievable
 - **Emergency communications** — reliable when infrastructure is gone
-- **Contesting** — rapid-fire contest exchanges
 
-### Equipment:
-- **Icom IC-7300** — the gold standard entry HF rig (~$1,100)
-- **Xiegu G90** — budget SDR-based HF radio (~$400)
+---
+
+## SSB: Equipment
+
+### Entry-level HF transceivers:
+- **Icom IC-7300** — the gold standard entry rig (~$1,100), SDR-based
+- **Xiegu G90** — budget SDR-based HF radio (~$400), excellent value
 - **Icom IC-705** — portable, all-mode, SDR-based (~$1,300)
+- **Yaesu FT-991A** — all-band all-mode including VHF/UHF (~$1,100)
+
+### What you need besides the radio:
+- **Antenna** — a simple wire dipole works fine to start
+- **Feedline** — coax (RG-8X or LMR-400 for longer runs)
+- **Interface** — for digital modes: Digirig (~$60) or SignaLink (~$120)
+- **Logging software** — N1MM+, Log4OM, or WSJT-X (free)
 
 ---
 
@@ -859,16 +891,20 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **TGIF** — alternative, more open network
 - Talkgroups: `TG 91` (World English), `TG 93` (NA), regional/local TGs
 
+---
+
+## DMR: Hardware & Getting Started
+
 ### Hardware:
 - **TYT MD-380/390** — ~$65, the original popular DMR HT
 - **Radioddity GD-73** — compact, excellent value
 - **Anytone AT-D878UV** — feature-packed, popular upgrade
-- **Hotspot** — MMDVM or Pi-Star/BlueDV connecting you to BrandMeister via home Wi-Fi
+- **Hotspot** — MMDVM or Pi-Star/BlueDV — connects to BrandMeister via Wi-Fi
 
 ### Getting started:
 1. Buy a DMR radio
 2. Register on `radioid.net` for your **DMR ID** (free)
-3. Program repeaters or set up a hotspot
+3. Program local repeaters or set up a hotspot
 4. Join Talkgroup 91 and say hello
 
 ---
@@ -914,23 +950,27 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **C4FM** = Continuous 4-level FM — the modulation scheme
 - Yaesu's brand name: **System Fusion**
 - **AMBE+2** codec (same as D-STAR)
-- Easy adoption: many C4FM repeaters operate in **auto mode**, accepting both analog FM and digital C4FM callers
+- Many C4FM repeaters run in **auto mode** — accepts both analog FM and digital
 
 ### WIRES-X Network:
 - Yaesu's internet-linking platform
 - **Rooms and Nodes** — similar to Echolink but C4FM native
 - Thousands of rooms worldwide, many active communities
 
+---
+
+## C4FM: Why It Works
+
 ### Why operators like C4FM:
 - Seamless analog/digital coexistence on same repeater
-- Good audio quality
-- WIRES-X rooms are easy to navigate from the radio itself
-- Yaesu makes excellent radios: FT-70D (~$180), FT3DR, FTM-500D
+- Good audio quality with no extra setup for analog users
+- WIRES-X rooms are easy to navigate directly from the radio
+- Yaesu makes excellent radios: **FT-70D** (~$180), FT3DR, FTM-500D
 
 ### C4FM in 2026:
-- Very active in North America, Japan, Europe
-- Compatible with **YSF (Yaesu System Fusion)** reflectors
-- Accessible through Pi-Star/BlueDV hotspots
+- Very active in North America, Japan, and Europe
+- Compatible with **YSF** reflectors via Pi-Star/BlueDV hotspots
+- Great entry point if your local club runs a Fusion repeater
 
 ---
 
@@ -1021,21 +1061,24 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 **The newsletter connecting the innovators of amateur radio.**
 
 ### What is Zero Retries?
-- Weekly newsletter by **Steve Stroh N8GNJ** (previously **Michael KI7MT**)
+- Weekly newsletter by **Steve Stroh N8GNJ**
 - Focus on **amateur radio innovation** — not just traditional contesting/DX
 - Covers: digital modes, software, mesh networking, new organizations
-- Free to subscribe at `zereoretries.info`
+- Free to subscribe at `zeroretries.info`
 
-### What you'll find in Zero Retries:
+### What you'll find:
 - Project announcements and updates
 - Interviews with builders and innovators
-- Links to open source projects
-- Governance and regulatory issues
+- Links to open source projects and governance issues
 - The "new guard" of amateur radio thought
 
-### Why subscribe:
+---
+
+## Zero Retries: Why Subscribe
+
+### What makes it worth your time:
 - Cuts through the noise — highly curated signal
-- Covers projects months before they hit mainstream
+- Covers projects months before they hit mainstream ham media
 - Connects you to forward-thinking community members
 - Archive of past issues is a goldmine of project ideas
 
@@ -1050,21 +1093,28 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ### What is EtherHam?
 - Community focused on **networking, Linux, and amateur radio**
-- Discussion forum, Discord server, collaborative projects
-- Appeals to the **tech/IT/sysadmin crossover** ham operator demographic
-- Strong interest in: mesh networking, Winlink, digital infrastructure
+- Discord server, forum, collaborative projects
+- Appeals to the **tech/IT/sysadmin crossover** ham demographic
 
 ### EtherHam interests:
 - **AREDN** (Amateur Radio Emergency Data Network) mesh
-- Wireguard/VPN over amateur radio
+- Wireguard/VPN tunneling over amateur radio
 - **OpenWRT on radio hardware**
-- Amateur radio with Raspberry Pi, SDR platforms
-- Software-defined radio for infrastructure monitoring
+- Raspberry Pi, SDR, and software-defined infrastructure
 
-### Finding EtherHam:
-- Discord server: active technical discussions
-- Topics bridge the gap between professional networking and amateur radio
-- Great place to ask "how do I run this over radio" questions
+---
+
+## EtherHam: Finding the Community
+
+### Where to engage:
+- **Discord server** — active technical discussions daily
+- Topics bridge professional networking and amateur radio
+- Great place for "how do I run X over radio?" questions
+
+### Who it's for:
+- Network engineers, Linux sysadmins, DevOps folks
+- Anyone who thinks about radio as infrastructure
+- Operators who want to go deeper than voice contacts
 
 > If you're a network engineer or Linux sysadmin who's just getting into radio,
 > EtherHam is *your* community.

@@ -129,11 +129,20 @@ No license → Technician → General → Extra
 - Respected in the community — shows deep commitment
 - The "extra" sub-bands are noticeably quieter during contests
 
-### The challenge:
-- 50 questions from a pool of 622
-- Covers advanced electronics, RF theory, antenna design
+---
+
+## Extra License: The Challenge
+
+### What the exam covers:
+- 50 questions from a pool of 622 (need 37 correct)
+- Advanced electronics and RF theory
+- Antenna design and feedline matching
 - Digital signal processing, operating procedures, regulations
+
+### How to approach it:
 - Takes most people several months of serious study
+- HamStudy.org adaptive flashcards are the most efficient path
+- Many operators upgrade within a year of getting their General
 
 > "The Extra exam is not a test of intelligence —
 > it's a test of *dedication.*" — common saying in the community

@@ -36,6 +36,11 @@ jobs:
       - name: Combine slide sections into combined.md
         run: ./combine.sh
 
+      - name: Inject build timestamp
+        run: |
+          BUILD_TIME=$(date -u '+%Y-%m-%d %H:%M UTC')
+          sed -i "s/BUILD_TIMESTAMP/${BUILD_TIME}/" combined.md
+
       - name: Build combined.html
         run: |
           npx --yes @marp-team/marp-cli@latest \

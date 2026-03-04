@@ -67,24 +67,33 @@ Different modes excel at different things:
 ### How FM works:
 - **Frequency Modulation** — voice varies the carrier frequency
 - Clean, full-quieting audio when signal is strong
-- Cliff-edge reception: strong = crystal clear, weak = noise, nothing in between
+- Cliff-edge reception: crystal clear when strong, noise floor when weak
 
 ### 2-meter FM (144–148 MHz):
 - Most active HAM band for new operators
 - **Repeaters everywhere** — extend handheld range to 30–100+ km
 - Repeater directories: `repeaterbook.com`
-- **CTCSS/DCS tones** — subaudible tones to open repeaters
+- **CTCSS/DCS tones** — subaudible tones to access repeaters
 
 ### 70cm FM (420–450 MHz):
 - Less congested than 2m in many areas
-- More repeaters, digital voice repeaters
-- APRS digipeaters and satellites
+- Digital voice repeaters (DMR, C4FM) are common on 70cm
 
-### Getting started with FM:
+---
+
+## FM: Getting Started
+
+### Recommended first radios:
 - **Baofeng UV-5R** (~$25) — inexpensive, controversial, works
-- **Yaesu FT-65** (~$75) — quality budget handheld
-- **TYT MD-380** (~$65) — FM + DMR digital voice
-- **Wouxun KG-935G** — FM + GMRS capable
+- **Yaesu FT-65** (~$75) — quality budget handheld, highly recommended
+- **TYT MD-380** (~$65) — FM + DMR digital voice in one radio
+- **Wouxun KG-935G** — FM + GMRS capable, good build quality
+
+### First steps on FM:
+1. Program your local repeater into the radio (input, output, CTCSS tone)
+2. Listen to the repeater during commute hours — most active time
+3. Wait for a break, key up, say your callsign
+4. Someone will likely come back — that's your first contact!
 
 ---
 
@@ -104,14 +113,24 @@ Different modes excel at different things:
 
 ### Why SSB?
 - **DX** — talking across continents with 100W or less
-- **QRP** — very low power (5W or less) — global contacts are achievable
+- **QRP** — 5W or less — global contacts are achievable
 - **Emergency communications** — reliable when infrastructure is gone
-- **Contesting** — rapid-fire contest exchanges
 
-### Equipment:
-- **Icom IC-7300** — the gold standard entry HF rig (~$1,100)
-- **Xiegu G90** — budget SDR-based HF radio (~$400)
+---
+
+## SSB: Equipment
+
+### Entry-level HF transceivers:
+- **Icom IC-7300** — the gold standard entry rig (~$1,100), SDR-based
+- **Xiegu G90** — budget SDR-based HF radio (~$400), excellent value
 - **Icom IC-705** — portable, all-mode, SDR-based (~$1,300)
+- **Yaesu FT-991A** — all-band all-mode including VHF/UHF (~$1,100)
+
+### What you need besides the radio:
+- **Antenna** — a simple wire dipole works fine to start
+- **Feedline** — coax (RG-8X or LMR-400 for longer runs)
+- **Interface** — for digital modes: Digirig (~$60) or SignaLink (~$120)
+- **Logging software** — N1MM+, Log4OM, or WSJT-X (free)
 
 ---
 
