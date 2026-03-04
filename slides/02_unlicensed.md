@@ -19,7 +19,7 @@ style: |
   section.section-title h1 { font-size: 2.5em; border-bottom: none; }
   table { border-collapse: collapse; width: 100%; }
   th { background: #1e3a5f; color: #38bdf8; padding: 0.4em 0.8em; }
-  td { border: 1px solid #334155; padding: 0.4em 0.8em; }
+  td { border: 1px solid #334155; padding: 0.4em 0.8em; background: #0f172a; color: #e2e8f0; }
   tr:nth-child(even) td { background: #1e293b; }
   footer { color: #64748b; font-size: 0.75em; }
   header { color: #38bdf8; font-size: 0.8em; }

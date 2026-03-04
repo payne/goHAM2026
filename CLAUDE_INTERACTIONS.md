@@ -32,5 +32,10 @@ Session ID: `4f345f62...`
 
 **Claude Response:** Created `.github/workflows/build-presentation.yml` — triggers on push to main/master when `slides/**` or `combine.sh` changes, runs combine.sh + marp-cli, commits `combined.html` and `index.html` back to the repo. Added `.gitignore`. Updated README with GitHub Pages setup instructions.
 
+### User Prompt 5
+> Slide 7 (and others) have tables where every other row has a white background. Improve the contrast of the text in these rows.
+
+**Claude Response:** Added `background: #0f172a; color: #e2e8f0;` to the `td` CSS rule in all 10 slide files. The odd rows (which had no explicit background, defaulting to white) now match the dark page background. Even rows remain `#1e293b` for subtle striping. Rebuilt `combined.md`.
+
 ---
 

@@ -74,6 +74,8 @@ style: |
   td {
     border: 1px solid #334155;
     padding: 0.4em 0.8em;
+    background: #0f172a;
+    color: #e2e8f0;
   }
   tr:nth-child(even) td {
     background: #1e293b;
