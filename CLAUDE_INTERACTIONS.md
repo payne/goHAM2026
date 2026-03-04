@@ -86,3 +86,20 @@ Deck grew from ~60 to ~70 slides. GitHub Actions will rebuild the HTML automatic
 
 ---
 
+## Claude [2026-03-04 08:29:08]
+
+Pushed. Here's a summary:
+
+**8 more slides split** (19 total splits across this session):
+| File | Split |
+|---|---|
+| `03_gmrs` | GMRS→HAM → skills + comparison table |
+| `04_licensing` | Extra License → privileges + challenge/study |
+| `05_analog_modes` | FM → starter mode + getting started; SSB → physics/why + equipment |
+| `06_digital_voice` | DMR → origins/networks + hardware/setup; C4FM → what is + why it works |
+| `07_organizations` | Zero Retries → what is + why subscribe; EtherHam → what is + finding community |
+
+**Build timestamp:** Title slide now shows `*Built: BUILD_TIMESTAMP*`. When GitHub Actions runs, it replaces that with the actual UTC time (e.g., `2026-03-04 14:32 UTC`) before rendering the HTML. The local `combined.md` keeps the literal placeholder — the timestamp only appears in the rendered `combined.html`/`index.html`.
+
+---
+
