@@ -52,3 +52,24 @@ Total slides grew from ~60 to ~70. Rebuilt `combined.md`.
 
 ---
 
+## Claude [2026-03-03 21:36:56]
+
+Pushed. Here's a summary of what was split:
+
+| File | Original slide | New slide |
+|---|---|---|
+| `01_rtlsdr` | Getting Started with RTL-SDR | **RTL-SDR: Tips & Tricks** |
+| `04_licensing` | Technician License | **Technician Exam: What You'll Study** (table) |
+| `04_licensing` | How to Get Licensed | **Taking the Exam** |
+| `05_analog_modes` | FT8 — The Digital Phenomenon | **FT8: Why It Changed Everything** |
+| `05_analog_modes` | JS8Call, APRS & Weak Signal | **More Digital Data Modes** (+ chooser table) |
+| `06_digital_voice` | D-STAR | **D-STAR: Ecosystem & Community** |
+| `07_organizations` | Ham Radio Crash Course | **More Ham Radio on YouTube** (table) |
+| `08_activities` | ARES | **ARES: Training & Technology** |
+| `08_activities` | More Activities | **More Activities: Satellites & Weak Signal** |
+| `09_conclusion` | The Starter Playbook | **After You're Licensed** |
+
+Deck grew from ~60 to ~70 slides. GitHub Actions will rebuild the HTML automatically.
+
+---
+
