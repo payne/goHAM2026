@@ -22,5 +22,10 @@ Session ID: `4f345f62...`
 
 **Claude Response:** Updated `CLAUDE_INTERACTIONS.md` to record all prompts and responses. Saved project preference to memory.
 
+### User Prompt 3
+> Great! Add the URL of the git hub repo to the first slide. https://github.com/payne/goHAM2026
+
+**Claude Response:** Added `github.com/payne/goHAM2026` as a code-formatted line below the callsign/date on the title slide in `slides/00_title.md`. Rebuilt `combined.md`.
+
 ---
 

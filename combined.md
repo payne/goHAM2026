@@ -98,6 +98,8 @@ header: "Getting Started in HAM Radio — 2026"
 
 **[Your Callsign Here]** | March 2026
 
+`github.com/payne/goHAM2026`
+
 ---
 
 <!-- _class: section-title -->
