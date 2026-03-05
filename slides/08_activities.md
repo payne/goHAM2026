@@ -50,6 +50,10 @@ header: "Getting Started in HAM Radio — 2026"
 - **Any license class can participate** — Technicians operate 2m POTA!
 - Award certificates for activations and hunter contacts
 
+---
+
+## POTA: How to Activate
+
 ### What a POTA activation looks like:
 1. Choose a qualifying park (`parksontheair.com/reference`)
 2. Set up portable radio + antenna (often a wire in a tree)
@@ -136,6 +140,10 @@ header: "Getting Started in HAM Radio — 2026"
 - **Categories:** HF, VHF, satellite, digital
 - Bonus points for: emergency power, public info, media coverage, satellite contacts
 - Score submitted to ARRL — results published in QST magazine
+
+---
+
+## Field Day: Why Attend
 
 ### Why attend Field Day as a new operator:
 - **No experience needed** — show up and operators will guide you

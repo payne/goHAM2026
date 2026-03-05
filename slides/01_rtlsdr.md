@@ -84,7 +84,10 @@ Before you transmit, *listen*. SDR lets you:
 - **GQRX** — Linux/macOS, clean Qt interface, great for beginners
 - **CubicSDR** — Cross-platform, open source
 
-### Decoders & add-ons:
+---
+
+## SDR Software: Decoders & Add-ons
+
 - **dump1090 / readsb** — ADS-B aircraft positions → map
 - **rtl_433** — Decode 433 MHz IoT sensors, weather stations
 - **WXtoImg** — Weather satellite image decoder

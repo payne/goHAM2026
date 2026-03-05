@@ -169,6 +169,10 @@ header: "Getting Started in HAM Radio — 2026"
 - Designed specifically for amateur radio (not a commercial repurpose)
 - **Software-defined radio friendly** — can run in software
 
+---
+
+## M-17 in 2026
+
 ### M-17 in 2026:
 - Growing repeater network and reflectors (`m17project.org`)
 - **MMDVM** support — runs on same hotspot hardware as DMR/D-STAR
@@ -193,6 +197,10 @@ header: "Getting Started in HAM Radio — 2026"
 | Time slots | **2 (TDMA)** | 1 | 1 | 1 |
 | Popularity | Very High | High | High | Growing |
 | Best for | Large networks | Legacy/Japan | Beginners | Open source |
+
+---
+
+## Digital Voice: Where to Start
 
 ### The practical advice:
 - **Start with DMR** — cheapest hardware, biggest network

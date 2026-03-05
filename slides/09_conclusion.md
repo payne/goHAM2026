@@ -87,6 +87,10 @@ header: "Getting Started in HAM Radio — 2026"
 - **Yaesu FT-65 or FT-70D** — first HAM handheld
 - **Xiegu G90 or X6100** — budget HF entry point
 
+---
+
+## Resource Summary (continued)
+
 ### Community:
 - **ARRL** — `arrl.org` — find clubs, exams, resources
 - **QRZ.com** — callsign lookup, forums
@@ -135,7 +139,10 @@ header: "Getting Started in HAM Radio — 2026"
 | 20m | 14.000–14.350 | — | Full | SSB, CW, FT8 |
 | 80m | 3.500–4.000 | — | Full | SSB, CW |
 
-### Common frequencies:
+---
+
+## Appendix: Common Frequencies
+
 - **APRS:** 144.390 MHz (NA)
 - **FT8 20m:** 14.074 MHz
 - **FT8 40m:** 7.074 MHz

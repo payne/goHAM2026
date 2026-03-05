@@ -102,7 +102,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 `github.com/payne/goHAM2026`
 
-*Built: 2026-03-04 14:29 UTC*
+*Built: BUILD_TIMESTAMP*
 
 ---
 
@@ -207,7 +207,10 @@ Before you transmit, *listen*. SDR lets you:
 - **GQRX** — Linux/macOS, clean Qt interface, great for beginners
 - **CubicSDR** — Cross-platform, open source
 
-### Decoders & add-ons:
+---
+
+## SDR Software: Decoders & Add-ons
+
 - **dump1090 / readsb** — ADS-B aircraft positions → map
 - **rtl_433** — Decode 433 MHz IoT sensors, weather stations
 - **WXtoImg** — Weather satellite image decoder
@@ -310,6 +313,10 @@ Before you transmit, *listen*. SDR lets you:
 2. Flash MeshCore firmware (or Meshtastic)
 3. Connect to the app on your phone via Bluetooth
 4. Start messaging with anyone else on the mesh nearby
+
+---
+
+## MeshCore: Real-World Use Cases
 
 ### Real-world use cases:
 - **Hiking/camping** communication when cell is gone
@@ -506,6 +513,10 @@ No license → Technician → General → Extra
 - **17m, 12m:** Excellent DX bands
 - *Partial access to 160m, 60m, 30m, 20m*
 
+---
+
+## General License: Why Upgrade?
+
 ### Why upgrade?
 - **20 meters (14 MHz)** is the most active global HF band
 - Talk to every continent with modest equipment
@@ -601,6 +612,10 @@ No license → Technician → General → Extra
 - Free to apply, small wait period
 - Can request 1x2, 2x1 (if Extra) or any available combination
 - Many operators pick meaningful callsigns
+
+---
+
+## Callsign Formats: International
 
 ### Callsign formats by country:
 - US: `W`, `K`, `N`, `A` prefix groups
@@ -809,6 +824,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **VARA FM:** Fast local VHF/UHF data transfer, up to 9600 bps
 - Dramatically faster and more robust than older Pactor hardware modems
 
+---
+
+## VARA & Winlink: Getting Started
+
 ### Getting started with Winlink:
 1. Install **Winlink Express** (free, Windows)
 2. Install VARA HF or VARA FM (free trial, $69 to register)
@@ -834,6 +853,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Codec2 is also used in M-17, the next-generation digital voice protocol
 - Community-driven development, fully documented
 - Outperforms SSB voice in poor conditions (some modes)
+
+---
+
+## FreeDV: Getting Started
 
 ### Getting started:
 - Download **FreeDV GUI** (free, cross-platform)
@@ -990,6 +1013,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Designed specifically for amateur radio (not a commercial repurpose)
 - **Software-defined radio friendly** — can run in software
 
+---
+
+## M-17 in 2026
+
 ### M-17 in 2026:
 - Growing repeater network and reflectors (`m17project.org`)
 - **MMDVM** support — runs on same hotspot hardware as DMR/D-STAR
@@ -1014,6 +1041,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 | Time slots | **2 (TDMA)** | 1 | 1 | 1 |
 | Popularity | Very High | High | High | Growing |
 | Best for | Large networks | Legacy/Japan | Beginners | Open source |
+
+---
+
+## Digital Voice: Where to Start
 
 ### The practical advice:
 - **Start with DMR** — cheapest hardware, biggest network
@@ -1046,6 +1077,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **Education:** scholarships, school programs
 - **Research:** RF propagation, digital communications, emergency comms
 - Grants to clubs and individuals — `ardc.net/grants`
+
+---
+
+## ARDC: Why It Matters
 
 ### Why this matters to you:
 - ARDC is actively funding the *next generation* of amateur radio tools
@@ -1138,6 +1173,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Interviews with ARDC, club leaders, innovators
 - The state of amateur radio governance and the FCC
 
+---
+
+## Random Wire: Finding the Community
+
 ### Finding Random Wire:
 - Available on all major podcast platforms
 - Active community on Discord and social media
@@ -1163,9 +1202,14 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **POTA activations** — watching Josh operate portable is addictive
 - Antenna builds and installation guides
 
-### Why it works:
+---
+
+## Ham Radio Crash Course: Why It Works
+
+### Why HRCC works:
 - Approaches every topic as if explaining to his past self
 - High production value — watchable even for non-hams
+- Consistently one of the **highest-quality** HAM YouTube channels
 
 ---
 
@@ -1199,6 +1243,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Every region has multiple clubs — find yours at `arrl.org/find-a-club`
 - Club activities: **nets, meetings, Field Day, licensing classes, elmers**
 - Many clubs have loaner equipment for new members
+
+---
+
+## The Broader Community: Online
 
 ### Online communities:
 - **r/amateurradio** — large, active subreddit
@@ -1235,6 +1283,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Deeply social — huge community at `parksontheair.com`
 - **Any license class can participate** — Technicians operate 2m POTA!
 - Award certificates for activations and hunter contacts
+
+---
+
+## POTA: How to Activate
 
 ### What a POTA activation looks like:
 1. Choose a qualifying park (`parksontheair.com/reference`)
@@ -1322,6 +1374,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **Categories:** HF, VHF, satellite, digital
 - Bonus points for: emergency power, public info, media coverage, satellite contacts
 - Score submitted to ARRL — results published in QST magazine
+
+---
+
+## Field Day: Why Attend
 
 ### Why attend Field Day as a new operator:
 - **No experience needed** — show up and operators will guide you
@@ -1431,6 +1487,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **Yaesu FT-65 or FT-70D** — first HAM handheld
 - **Xiegu G90 or X6100** — budget HF entry point
 
+---
+
+## Resource Summary (continued)
+
 ### Community:
 - **ARRL** — `arrl.org` — find clubs, exams, resources
 - **QRZ.com** — callsign lookup, forums
@@ -1479,7 +1539,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 | 20m | 14.000–14.350 | — | Full | SSB, CW, FT8 |
 | 80m | 3.500–4.000 | — | Full | SSB, CW |
 
-### Common frequencies:
+---
+
+## Appendix: Common Frequencies
+
 - **APRS:** 144.390 MHz (NA)
 - **FT8 20m:** 14.074 MHz
 - **FT8 40m:** 7.074 MHz

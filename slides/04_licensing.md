@@ -102,6 +102,10 @@ No license → Technician → General → Extra
 - **17m, 12m:** Excellent DX bands
 - *Partial access to 160m, 60m, 30m, 20m*
 
+---
+
+## General License: Why Upgrade?
+
 ### Why upgrade?
 - **20 meters (14 MHz)** is the most active global HF band
 - Talk to every continent with modest equipment
@@ -197,6 +201,10 @@ No license → Technician → General → Extra
 - Free to apply, small wait period
 - Can request 1x2, 2x1 (if Extra) or any available combination
 - Many operators pick meaningful callsigns
+
+---
+
+## Callsign Formats: International
 
 ### Callsign formats by country:
 - US: `W`, `K`, `N`, `A` prefix groups

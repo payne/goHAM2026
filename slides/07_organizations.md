@@ -50,6 +50,10 @@ header: "Getting Started in HAM Radio — 2026"
 - **Research:** RF propagation, digital communications, emergency comms
 - Grants to clubs and individuals — `ardc.net/grants`
 
+---
+
+## ARDC: Why It Matters
+
 ### Why this matters to you:
 - ARDC is actively funding the *next generation* of amateur radio tools
 - Many of the software tools you use are ARDC-supported
@@ -141,6 +145,10 @@ header: "Getting Started in HAM Radio — 2026"
 - Interviews with ARDC, club leaders, innovators
 - The state of amateur radio governance and the FCC
 
+---
+
+## Random Wire: Finding the Community
+
 ### Finding Random Wire:
 - Available on all major podcast platforms
 - Active community on Discord and social media
@@ -166,9 +174,14 @@ header: "Getting Started in HAM Radio — 2026"
 - **POTA activations** — watching Josh operate portable is addictive
 - Antenna builds and installation guides
 
-### Why it works:
+---
+
+## Ham Radio Crash Course: Why It Works
+
+### Why HRCC works:
 - Approaches every topic as if explaining to his past self
 - High production value — watchable even for non-hams
+- Consistently one of the **highest-quality** HAM YouTube channels
 
 ---
 
@@ -202,6 +215,10 @@ header: "Getting Started in HAM Radio — 2026"
 - Every region has multiple clubs — find yours at `arrl.org/find-a-club`
 - Club activities: **nets, meetings, Field Day, licensing classes, elmers**
 - Many clubs have loaner equipment for new members
+
+---
+
+## The Broader Community: Online
 
 ### Online communities:
 - **r/amateurradio** — large, active subreddit

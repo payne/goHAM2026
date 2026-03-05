@@ -222,6 +222,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **VARA FM:** Fast local VHF/UHF data transfer, up to 9600 bps
 - Dramatically faster and more robust than older Pactor hardware modems
 
+---
+
+## VARA & Winlink: Getting Started
+
 ### Getting started with Winlink:
 1. Install **Winlink Express** (free, Windows)
 2. Install VARA HF or VARA FM (free trial, $69 to register)
@@ -247,6 +251,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Codec2 is also used in M-17, the next-generation digital voice protocol
 - Community-driven development, fully documented
 - Outperforms SSB voice in poor conditions (some modes)
+
+---
+
+## FreeDV: Getting Started
 
 ### Getting started:
 - Download **FreeDV GUI** (free, cross-platform)

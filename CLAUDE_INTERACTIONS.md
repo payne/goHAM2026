@@ -113,3 +113,19 @@ Done.
 
 ---
 
+# Session Started [2026-03-04 13:18:58]
+
+Session ID: `a022c708...`
+
+---
+
+## Claude [2026-03-04 13:20:12]
+
+The "Decoders & add-ons" content is now on its own slide. The original overflow slide has been split into:
+- **Slide 8:** SDR Software in 2026 (SDR++ + Other options)
+- **New slide 9:** SDR Software: Decoders & Add-ons
+
+Run `npx @marp-team/marp-cli combined.md --html -o presentation.html` to render and verify.
+
+---
+

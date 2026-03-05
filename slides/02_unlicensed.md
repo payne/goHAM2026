@@ -93,6 +93,10 @@ header: "Getting Started in HAM Radio — 2026"
 3. Connect to the app on your phone via Bluetooth
 4. Start messaging with anyone else on the mesh nearby
 
+---
+
+## MeshCore: Real-World Use Cases
+
 ### Real-world use cases:
 - **Hiking/camping** communication when cell is gone
 - **Event coordination** without cell infrastructure
