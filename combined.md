@@ -35,6 +35,17 @@ style: |
     padding: 0.1em 0.4em;
     border-radius: 4px;
   }
+  pre {
+    background: #1e293b;
+    border-radius: 6px;
+    padding: 0.6em 1em;
+  }
+  pre code {
+    background: transparent;
+    color: #e2e8f0;
+    padding: 0;
+    border-radius: 0;
+  }
   a {
     color: #38bdf8;
   }
