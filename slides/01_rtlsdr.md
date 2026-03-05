@@ -77,7 +77,7 @@ Before you transmit, *listen*. SDR lets you:
 - Modern, modular, fast — *the* SDR frontend
 - Windows, Linux, macOS, Raspberry Pi
 - Built-in decoders for many modes
-- `sdrpp.org`
+- <a href="https://sdrpp.org" target="_blank">sdrpp.org</a>
 
 ### Other options:
 - **SDR#** (SDRSharp) — Windows, long-standing favorite, plugin ecosystem
@@ -99,7 +99,7 @@ Before you transmit, *listen*. SDR lets you:
 
 ### Shopping list:
 1. **RTL-SDR Blog V4** kit (~$35) — includes antenna set
-   - `rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/`
+   - <a href="https://rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/" target="_blank">rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/</a>
 2. A laptop or Raspberry Pi 4/5
 
 ### First steps:

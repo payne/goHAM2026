@@ -64,7 +64,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### GMRS Repeaters:
 - Run by clubs and individuals, often free to use
-- `mygmrs.com` — national repeater directory
+- <a href="https://mygmrs.com" target="_blank">mygmrs.com</a> — national repeater directory
 - Some repeaters linked over internet (IRLP/AllStar/Zello-based)
 - Growing infrastructure in 2026
 

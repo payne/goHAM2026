@@ -72,7 +72,7 @@ Different modes excel at different things:
 ### 2-meter FM (144–148 MHz):
 - Most active HAM band for new operators
 - **Repeaters everywhere** — extend handheld range to 30–100+ km
-- Repeater directories: `repeaterbook.com`
+- Repeater directories: <a href="https://repeaterbook.com" target="_blank">repeaterbook.com</a>
 - **CTCSS/DCS tones** — subaudible tones to access repeaters
 
 ### 70cm FM (420–450 MHz):

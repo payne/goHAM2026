@@ -111,7 +111,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 **[Your Callsign Here]** | March 2026
 
-`github.com/payne/goHAM2026`
+<a href="https://github.com/payne/goHAM2026" target="_blank">github.com/payne/goHAM2026</a>
 
 *Built: BUILD_TIMESTAMP*
 

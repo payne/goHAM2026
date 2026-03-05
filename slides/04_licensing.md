@@ -115,7 +115,7 @@ No license → Technician → General → Extra
 ### Study tips:
 - 35 questions from pool of 454
 - Emphasizes HF operating, propagation, and more complex electronics
-- HamStudy.org has excellent spaced repetition flash cards
+- <a href="https://hamstudy.org" target="_blank">HamStudy.org</a> has excellent spaced repetition flash cards
 
 ---
 
@@ -145,7 +145,7 @@ No license → Technician → General → Extra
 
 ### How to approach it:
 - Takes most people several months of serious study
-- HamStudy.org adaptive flashcards are the most efficient path
+- <a href="https://hamstudy.org" target="_blank">HamStudy.org</a> adaptive flashcards are the most efficient path
 - Many operators upgrade within a year of getting their General
 
 > "The Extra exam is not a test of intelligence —
@@ -156,9 +156,9 @@ No license → Technician → General → Extra
 ## How to Study for Your License
 
 ### Study resources:
-- **HamStudy.org** — free, adaptive spaced repetition, highly recommended
+- <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a> — free, adaptive spaced repetition, highly recommended
 - **ARRL Ham Radio License Manual** — official study guide
-- **HamTestOnline.com** — paid but very thorough
+- <a href="https://hamtestonline.com" target="_blank"><strong>HamTestOnline.com</strong></a> — paid but very thorough
 - **YouTube:** Ham Radio Crash Course, David Casler (KE0OG) study videos
 
 ### Study strategy:
@@ -172,7 +172,7 @@ No license → Technician → General → Extra
 
 ### Steps:
 1. Find a **Volunteer Examiner session** near you
-   - `arrl.org/find-an-amateur-radio-license-exam-session`
+   - <a href="https://arrl.org/find-an-amateur-radio-license-exam-session" target="_blank">arrl.org/find-an-amateur-radio-license-exam-session</a>
    - **Remote/online testing** via HamStudy ARRL VEC or W5YI
 2. Bring a photo ID and $15–20 exam fee (varies by VEC)
 3. Pass 26/35 questions (74%)

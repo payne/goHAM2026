@@ -38,7 +38,7 @@ header: "Getting Started in HAM Radio — 2026"
 **Concrete steps you can take this week:**
 
 ### Week 1 — Start listening:
-- [ ] Order an **RTL-SDR Blog V4** kit (~$35) from `rtl-sdr.com`
+- [ ] Order an **RTL-SDR Blog V4** kit (~$35) from <a href="https://rtl-sdr.com" target="_blank">rtl-sdr.com</a>
 - [ ] Download **SDR++** and install it
 - [ ] Tune to 144.390 MHz and watch APRS packets scroll by
 - [ ] Find a local 2m repeater and listen to actual conversations
@@ -49,7 +49,7 @@ header: "Getting Started in HAM Radio — 2026"
 - [ ] Consider whether **GMRS** fits your household needs ($35, no exam)
 
 ### Week 3–4 — Study for your Technician:
-- [ ] Create a free account at **HamStudy.org**
+- [ ] Create a free account at <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a>
 - [ ] 15–30 minutes per day of flashcard practice
 - [ ] Schedule your exam when you're consistently passing at 80%+
 
@@ -77,12 +77,12 @@ header: "Getting Started in HAM Radio — 2026"
 ## Resource Summary
 
 ### Get Licensed:
-- **HamStudy.org** — study, practice exams, find a VE session
-- **Ham Radio Crash Course** — `youtube.com/@HamRadioCrashCourse`
+- <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a> — study, practice exams, find a VE session
+- **Ham Radio Crash Course** — <a href="https://youtube.com/@HamRadioCrashCourse" target="_blank">youtube.com/@HamRadioCrashCourse</a>
 - **David Casler KE0OG** — licensing study playlists on YouTube
 
 ### Hardware:
-- **RTL-SDR Blog V4** — `rtl-sdr.com`
+- **RTL-SDR Blog V4** — <a href="https://rtl-sdr.com" target="_blank">rtl-sdr.com</a>
 - **Heltec V3 LoRa** — MeshCore/Meshtastic starter
 - **Yaesu FT-65 or FT-70D** — first HAM handheld
 - **Xiegu G90 or X6100** — budget HF entry point
@@ -92,16 +92,16 @@ header: "Getting Started in HAM Radio — 2026"
 ## Resource Summary (continued)
 
 ### Community:
-- **ARRL** — `arrl.org` — find clubs, exams, resources
-- **QRZ.com** — callsign lookup, forums
+- **ARRL** — <a href="https://arrl.org" target="_blank">arrl.org</a> — find clubs, exams, resources
+- <a href="https://qrz.com" target="_blank"><strong>QRZ.com</strong></a> — callsign lookup, forums
 - **r/amateurradio** — active subreddit
-- **Zero Retries** — `zeroretries.info` — innovation newsletter
+- **Zero Retries** — <a href="https://zeroretries.info" target="_blank">zeroretries.info</a> — innovation newsletter
 
 ### Digital Infrastructure:
-- **Brandmeister** — `brandmeister.network` — DMR
-- **Winlink** — `winlink.org` — radio email
-- **POTA** — `parksontheair.com`
-- **APRS** — `aprs.fi`
+- **Brandmeister** — <a href="https://brandmeister.network" target="_blank">brandmeister.network</a> — DMR
+- **Winlink** — <a href="https://winlink.org" target="_blank">winlink.org</a> — radio email
+- **POTA** — <a href="https://parksontheair.com" target="_blank">parksontheair.com</a>
+- **APRS** — <a href="https://aprs.fi" target="_blank">aprs.fi</a>
 
 ---
 

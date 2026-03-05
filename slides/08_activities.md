@@ -46,7 +46,7 @@ header: "Getting Started in HAM Radio — 2026"
 ### Why POTA is amazing:
 - Forces you to **operate portable** — builds real skills
 - Gets you outside in beautiful places with a purpose
-- Deeply social — huge community at `parksontheair.com`
+- Deeply social — huge community at <a href="https://parksontheair.com" target="_blank">parksontheair.com</a>
 - **Any license class can participate** — Technicians operate 2m POTA!
 - Award certificates for activations and hunter contacts
 
@@ -55,7 +55,7 @@ header: "Getting Started in HAM Radio — 2026"
 ## POTA: How to Activate
 
 ### What a POTA activation looks like:
-1. Choose a qualifying park (`parksontheair.com/reference`)
+1. Choose a qualifying park (<a href="https://parksontheair.com/reference" target="_blank">parksontheair.com/reference</a>)
 2. Set up portable radio + antenna (often a wire in a tree)
 3. Make **10 contacts minimum** to count as an activation
 4. Upload log to POTA website within 24 hours
@@ -97,7 +97,7 @@ header: "Getting Started in HAM Radio — 2026"
 - **ARRL-affiliated** volunteer emergency communications organization
 - Coordinates amateur radio support during **disasters and emergencies**
 - Works with: FEMA, Red Cross, local emergency management, hospitals
-- Organized at county and state level — find your local group at `arrl.org/ares`
+- Organized at county and state level — find your local group at <a href="https://arrl.org/ares" target="_blank">arrl.org/ares</a>
 
 ### What ARES operators do:
 - **Staffing EOCs** (Emergency Operations Centers) during disasters
@@ -162,14 +162,14 @@ header: "Getting Started in HAM Radio — 2026"
 ### Contesting:
 - **CQ WW, ARRL DX, 7QP** — hundreds of contests per year
 - Competitive contact-making across bands and modes
-- `contestcalendar.com` — full schedule
+- <a href="https://contestcalendar.com" target="_blank">contestcalendar.com</a> — full schedule
 - Even one hour in a contest teaches more than a month of casual operating
 
 ### SOTA — Summits on the Air:
 - Similar to POTA but specifically for **mountain summits**
 - Must operate within 25 vertical meters of the summit
 - Serious portable operating — often QRP with tiny antennas
-- Global program: `sota.org.uk`
+- Global program: <a href="https://sota.org.uk" target="_blank">sota.org.uk</a>
 
 ---
 
@@ -179,7 +179,7 @@ header: "Getting Started in HAM Radio — 2026"
 - Amateur satellites in orbit: **SO-50, AO-91, AO-92, ISS**
 - Technician can work satellites with a dual-band handheld + yagi
 - ISS occasionally schedules **SSTV events** — receive space images
-- `amsat.org` — satellite tracking, schedules, and getting started
+- <a href="https://amsat.org" target="_blank">amsat.org</a> — satellite tracking, schedules, and getting started
 
 ### Digital Weak Signal (WSJT-X Modes):
 - **EME (Earth-Moon-Earth)** — bounce signals off the moon

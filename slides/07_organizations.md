@@ -48,7 +48,7 @@ header: "Getting Started in HAM Radio — 2026"
 - Infrastructure: repeaters, mesh networks, SDR receivers
 - **Education:** scholarships, school programs
 - **Research:** RF propagation, digital communications, emergency comms
-- Grants to clubs and individuals — `ardc.net/grants`
+- Grants to clubs and individuals — <a href="https://ardc.net/grants" target="_blank">ardc.net/grants</a>
 
 ---
 
@@ -163,7 +163,7 @@ header: "Getting Started in HAM Radio — 2026"
 **The gateway drug for the YouTube generation.**
 
 ### What is HRCC?
-- YouTube channel run by **Josh (KE8TWS)** — `youtube.com/@HamRadioCrashCourse`
+- YouTube channel run by **Josh (KE8TWS)** — <a href="https://youtube.com/@HamRadioCrashCourse" target="_blank">youtube.com/@HamRadioCrashCourse</a>
 - Extremely **beginner-friendly**, well-produced content
 - Covers: licensing, equipment reviews, digital modes, field ops
 - Consistently one of the **highest-quality** HAM YouTube channels
@@ -209,10 +209,10 @@ header: "Getting Started in HAM Radio — 2026"
 - Publishes **QST** magazine, the ARRL Handbook
 - Administers VE (Volunteer Examiner) testing
 - Lobbies FCC on behalf of amateur radio
-- `arrl.org` — find local clubs, events, resources
+- <a href="https://arrl.org" target="_blank">arrl.org</a> — find local clubs, events, resources
 
 ### Local clubs:
-- Every region has multiple clubs — find yours at `arrl.org/find-a-club`
+- Every region has multiple clubs — find yours at <a href="https://arrl.org/find-a-club" target="_blank">arrl.org/find-a-club</a>
 - Club activities: **nets, meetings, Field Day, licensing classes, elmers**
 - Many clubs have loaner equipment for new members
 
@@ -222,8 +222,8 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### Online communities:
 - **r/amateurradio** — large, active subreddit
-- **QRZ.com** — callsign lookup, forums, logbook
-- **eHam.net** — equipment reviews, forums
+- <a href="https://qrz.com" target="_blank"><strong>QRZ.com</strong></a> — callsign lookup, forums, logbook
+- <a href="https://eham.net" target="_blank"><strong>eHam.net</strong></a> — equipment reviews, forums
 - **Ham Radio Discord servers** — many active servers by topic
 
 > The amateur radio community is **genuinely welcoming** to new operators.

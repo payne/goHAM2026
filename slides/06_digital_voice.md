@@ -82,7 +82,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### Getting started:
 1. Buy a DMR radio
-2. Register on `radioid.net` for your **DMR ID** (free)
+2. Register on <a href="https://radioid.net" target="_blank">radioid.net</a> for your **DMR ID** (free)
 3. Program local repeaters or set up a hotspot
 4. Join Talkgroup 91 and say hello
 
@@ -110,7 +110,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 ### Hardware & infrastructure:
 - **DVMega, OpenSpot** hotspots — connect to reflectors via home Wi-Fi
-- `dstarinfo.com`, `dstarusers.org` — repeater directories and news
+- <a href="https://dstarinfo.com" target="_blank">dstarinfo.com</a>, <a href="https://dstarusers.org" target="_blank">dstarusers.org</a> — repeater directories and news
 - **Icom IC-9700, ID-52, ID-51** — current popular radios
 
 ### D-STAR appeal:
@@ -174,7 +174,7 @@ header: "Getting Started in HAM Radio — 2026"
 ## M-17 in 2026
 
 ### M-17 in 2026:
-- Growing repeater network and reflectors (`m17project.org`)
+- Growing repeater network and reflectors (<a href="https://m17project.org" target="_blank">m17project.org</a>)
 - **MMDVM** support — runs on same hotspot hardware as DMR/D-STAR
 - Hardware radios: **RadioHat, AIOC**, community-built hardware
 - Supported in **OpenRTX** — open source radio firmware project

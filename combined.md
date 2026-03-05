@@ -111,9 +111,9 @@ header: "Getting Started in HAM Radio — 2026"
 
 **[Your Callsign Here]** | March 2026
 
-`github.com/payne/goHAM2026`
+<a href="https://github.com/payne/goHAM2026" target="_blank">github.com/payne/goHAM2026</a>
 
-*Built: 2026-03-05 01:02 UTC*
+*Built: BUILD_TIMESTAMP*
 
 ---
 
@@ -211,7 +211,7 @@ Before you transmit, *listen*. SDR lets you:
 - Modern, modular, fast — *the* SDR frontend
 - Windows, Linux, macOS, Raspberry Pi
 - Built-in decoders for many modes
-- `sdrpp.org`
+- <a href="https://sdrpp.org" target="_blank">sdrpp.org</a>
 
 ### Other options:
 - **SDR#** (SDRSharp) — Windows, long-standing favorite, plugin ecosystem
@@ -233,7 +233,7 @@ Before you transmit, *listen*. SDR lets you:
 
 ### Shopping list:
 1. **RTL-SDR Blog V4** kit (~$35) — includes antenna set
-   - `rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/`
+   - <a href="https://rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/" target="_blank">rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/</a>
 2. A laptop or Raspberry Pi 4/5
 
 ### First steps:
@@ -405,7 +405,7 @@ No step is mandatory — but each one opens new doors.
 
 ### GMRS Repeaters:
 - Run by clubs and individuals, often free to use
-- `mygmrs.com` — national repeater directory
+- <a href="https://mygmrs.com" target="_blank">mygmrs.com</a> — national repeater directory
 - Some repeaters linked over internet (IRLP/AllStar/Zello-based)
 - Growing infrastructure in 2026
 
@@ -537,7 +537,7 @@ No license → Technician → General → Extra
 ### Study tips:
 - 35 questions from pool of 454
 - Emphasizes HF operating, propagation, and more complex electronics
-- HamStudy.org has excellent spaced repetition flash cards
+- <a href="https://hamstudy.org" target="_blank">HamStudy.org</a> has excellent spaced repetition flash cards
 
 ---
 
@@ -567,7 +567,7 @@ No license → Technician → General → Extra
 
 ### How to approach it:
 - Takes most people several months of serious study
-- HamStudy.org adaptive flashcards are the most efficient path
+- <a href="https://hamstudy.org" target="_blank">HamStudy.org</a> adaptive flashcards are the most efficient path
 - Many operators upgrade within a year of getting their General
 
 > "The Extra exam is not a test of intelligence —
@@ -578,9 +578,9 @@ No license → Technician → General → Extra
 ## How to Study for Your License
 
 ### Study resources:
-- **HamStudy.org** — free, adaptive spaced repetition, highly recommended
+- <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a> — free, adaptive spaced repetition, highly recommended
 - **ARRL Ham Radio License Manual** — official study guide
-- **HamTestOnline.com** — paid but very thorough
+- <a href="https://hamtestonline.com" target="_blank"><strong>HamTestOnline.com</strong></a> — paid but very thorough
 - **YouTube:** Ham Radio Crash Course, David Casler (KE0OG) study videos
 
 ### Study strategy:
@@ -594,7 +594,7 @@ No license → Technician → General → Extra
 
 ### Steps:
 1. Find a **Volunteer Examiner session** near you
-   - `arrl.org/find-an-amateur-radio-license-exam-session`
+   - <a href="https://arrl.org/find-an-amateur-radio-license-exam-session" target="_blank">arrl.org/find-an-amateur-radio-license-exam-session</a>
    - **Remote/online testing** via HamStudy ARRL VEC or W5YI
 2. Bring a photo ID and $15–20 exam fee (varies by VEC)
 3. Pass 26/35 questions (74%)
@@ -685,7 +685,7 @@ Different modes excel at different things:
 ### 2-meter FM (144–148 MHz):
 - Most active HAM band for new operators
 - **Repeaters everywhere** — extend handheld range to 30–100+ km
-- Repeater directories: `repeaterbook.com`
+- Repeater directories: <a href="https://repeaterbook.com" target="_blank">repeaterbook.com</a>
 - **CTCSS/DCS tones** — subaudible tones to access repeaters
 
 ### 70cm FM (420–450 MHz):
@@ -937,7 +937,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ### Getting started:
 1. Buy a DMR radio
-2. Register on `radioid.net` for your **DMR ID** (free)
+2. Register on <a href="https://radioid.net" target="_blank">radioid.net</a> for your **DMR ID** (free)
 3. Program local repeaters or set up a hotspot
 4. Join Talkgroup 91 and say hello
 
@@ -965,7 +965,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ### Hardware & infrastructure:
 - **DVMega, OpenSpot** hotspots — connect to reflectors via home Wi-Fi
-- `dstarinfo.com`, `dstarusers.org` — repeater directories and news
+- <a href="https://dstarinfo.com" target="_blank">dstarinfo.com</a>, <a href="https://dstarusers.org" target="_blank">dstarusers.org</a> — repeater directories and news
 - **Icom IC-9700, ID-52, ID-51** — current popular radios
 
 ### D-STAR appeal:
@@ -1029,7 +1029,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ## M-17 in 2026
 
 ### M-17 in 2026:
-- Growing repeater network and reflectors (`m17project.org`)
+- Growing repeater network and reflectors (<a href="https://m17project.org" target="_blank">m17project.org</a>)
 - **MMDVM** support — runs on same hotspot hardware as DMR/D-STAR
 - Hardware radios: **RadioHat, AIOC**, community-built hardware
 - Supported in **OpenRTX** — open source radio firmware project
@@ -1087,7 +1087,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Infrastructure: repeaters, mesh networks, SDR receivers
 - **Education:** scholarships, school programs
 - **Research:** RF propagation, digital communications, emergency comms
-- Grants to clubs and individuals — `ardc.net/grants`
+- Grants to clubs and individuals — <a href="https://ardc.net/grants" target="_blank">ardc.net/grants</a>
 
 ---
 
@@ -1202,7 +1202,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 **The gateway drug for the YouTube generation.**
 
 ### What is HRCC?
-- YouTube channel run by **Josh (KE8TWS)** — `youtube.com/@HamRadioCrashCourse`
+- YouTube channel run by **Josh (KE8TWS)** — <a href="https://youtube.com/@HamRadioCrashCourse" target="_blank">youtube.com/@HamRadioCrashCourse</a>
 - Extremely **beginner-friendly**, well-produced content
 - Covers: licensing, equipment reviews, digital modes, field ops
 - Consistently one of the **highest-quality** HAM YouTube channels
@@ -1248,10 +1248,10 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Publishes **QST** magazine, the ARRL Handbook
 - Administers VE (Volunteer Examiner) testing
 - Lobbies FCC on behalf of amateur radio
-- `arrl.org` — find local clubs, events, resources
+- <a href="https://arrl.org" target="_blank">arrl.org</a> — find local clubs, events, resources
 
 ### Local clubs:
-- Every region has multiple clubs — find yours at `arrl.org/find-a-club`
+- Every region has multiple clubs — find yours at <a href="https://arrl.org/find-a-club" target="_blank">arrl.org/find-a-club</a>
 - Club activities: **nets, meetings, Field Day, licensing classes, elmers**
 - Many clubs have loaner equipment for new members
 
@@ -1261,8 +1261,8 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 
 ### Online communities:
 - **r/amateurradio** — large, active subreddit
-- **QRZ.com** — callsign lookup, forums, logbook
-- **eHam.net** — equipment reviews, forums
+- <a href="https://qrz.com" target="_blank"><strong>QRZ.com</strong></a> — callsign lookup, forums, logbook
+- <a href="https://eham.net" target="_blank"><strong>eHam.net</strong></a> — equipment reviews, forums
 - **Ham Radio Discord servers** — many active servers by topic
 
 > The amateur radio community is **genuinely welcoming** to new operators.
@@ -1291,7 +1291,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ### Why POTA is amazing:
 - Forces you to **operate portable** — builds real skills
 - Gets you outside in beautiful places with a purpose
-- Deeply social — huge community at `parksontheair.com`
+- Deeply social — huge community at <a href="https://parksontheair.com" target="_blank">parksontheair.com</a>
 - **Any license class can participate** — Technicians operate 2m POTA!
 - Award certificates for activations and hunter contacts
 
@@ -1300,7 +1300,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ## POTA: How to Activate
 
 ### What a POTA activation looks like:
-1. Choose a qualifying park (`parksontheair.com/reference`)
+1. Choose a qualifying park (<a href="https://parksontheair.com/reference" target="_blank">parksontheair.com/reference</a>)
 2. Set up portable radio + antenna (often a wire in a tree)
 3. Make **10 contacts minimum** to count as an activation
 4. Upload log to POTA website within 24 hours
@@ -1342,7 +1342,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - **ARRL-affiliated** volunteer emergency communications organization
 - Coordinates amateur radio support during **disasters and emergencies**
 - Works with: FEMA, Red Cross, local emergency management, hospitals
-- Organized at county and state level — find your local group at `arrl.org/ares`
+- Organized at county and state level — find your local group at <a href="https://arrl.org/ares" target="_blank">arrl.org/ares</a>
 
 ### What ARES operators do:
 - **Staffing EOCs** (Emergency Operations Centers) during disasters
@@ -1407,14 +1407,14 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ### Contesting:
 - **CQ WW, ARRL DX, 7QP** — hundreds of contests per year
 - Competitive contact-making across bands and modes
-- `contestcalendar.com` — full schedule
+- <a href="https://contestcalendar.com" target="_blank">contestcalendar.com</a> — full schedule
 - Even one hour in a contest teaches more than a month of casual operating
 
 ### SOTA — Summits on the Air:
 - Similar to POTA but specifically for **mountain summits**
 - Must operate within 25 vertical meters of the summit
 - Serious portable operating — often QRP with tiny antennas
-- Global program: `sota.org.uk`
+- Global program: <a href="https://sota.org.uk" target="_blank">sota.org.uk</a>
 
 ---
 
@@ -1424,7 +1424,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - Amateur satellites in orbit: **SO-50, AO-91, AO-92, ISS**
 - Technician can work satellites with a dual-band handheld + yagi
 - ISS occasionally schedules **SSTV events** — receive space images
-- `amsat.org` — satellite tracking, schedules, and getting started
+- <a href="https://amsat.org" target="_blank">amsat.org</a> — satellite tracking, schedules, and getting started
 
 ### Digital Weak Signal (WSJT-X Modes):
 - **EME (Earth-Moon-Earth)** — bounce signals off the moon
@@ -1449,7 +1449,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 **Concrete steps you can take this week:**
 
 ### Week 1 — Start listening:
-- [ ] Order an **RTL-SDR Blog V4** kit (~$35) from `rtl-sdr.com`
+- [ ] Order an **RTL-SDR Blog V4** kit (~$35) from <a href="https://rtl-sdr.com" target="_blank">rtl-sdr.com</a>
 - [ ] Download **SDR++** and install it
 - [ ] Tune to 144.390 MHz and watch APRS packets scroll by
 - [ ] Find a local 2m repeater and listen to actual conversations
@@ -1460,7 +1460,7 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 - [ ] Consider whether **GMRS** fits your household needs ($35, no exam)
 
 ### Week 3–4 — Study for your Technician:
-- [ ] Create a free account at **HamStudy.org**
+- [ ] Create a free account at <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a>
 - [ ] 15–30 minutes per day of flashcard practice
 - [ ] Schedule your exam when you're consistently passing at 80%+
 
@@ -1488,12 +1488,12 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ## Resource Summary
 
 ### Get Licensed:
-- **HamStudy.org** — study, practice exams, find a VE session
-- **Ham Radio Crash Course** — `youtube.com/@HamRadioCrashCourse`
+- <a href="https://hamstudy.org" target="_blank"><strong>HamStudy.org</strong></a> — study, practice exams, find a VE session
+- **Ham Radio Crash Course** — <a href="https://youtube.com/@HamRadioCrashCourse" target="_blank">youtube.com/@HamRadioCrashCourse</a>
 - **David Casler KE0OG** — licensing study playlists on YouTube
 
 ### Hardware:
-- **RTL-SDR Blog V4** — `rtl-sdr.com`
+- **RTL-SDR Blog V4** — <a href="https://rtl-sdr.com" target="_blank">rtl-sdr.com</a>
 - **Heltec V3 LoRa** — MeshCore/Meshtastic starter
 - **Yaesu FT-65 or FT-70D** — first HAM handheld
 - **Xiegu G90 or X6100** — budget HF entry point
@@ -1503,16 +1503,16 @@ Both sides have a point. FT8 is a tool — use it to *get on HF*, then explore.
 ## Resource Summary (continued)
 
 ### Community:
-- **ARRL** — `arrl.org` — find clubs, exams, resources
-- **QRZ.com** — callsign lookup, forums
+- **ARRL** — <a href="https://arrl.org" target="_blank">arrl.org</a> — find clubs, exams, resources
+- <a href="https://qrz.com" target="_blank"><strong>QRZ.com</strong></a> — callsign lookup, forums
 - **r/amateurradio** — active subreddit
-- **Zero Retries** — `zeroretries.info` — innovation newsletter
+- **Zero Retries** — <a href="https://zeroretries.info" target="_blank">zeroretries.info</a> — innovation newsletter
 
 ### Digital Infrastructure:
-- **Brandmeister** — `brandmeister.network` — DMR
-- **Winlink** — `winlink.org` — radio email
-- **POTA** — `parksontheair.com`
-- **APRS** — `aprs.fi`
+- **Brandmeister** — <a href="https://brandmeister.network" target="_blank">brandmeister.network</a> — DMR
+- **Winlink** — <a href="https://winlink.org" target="_blank">winlink.org</a> — radio email
+- **POTA** — <a href="https://parksontheair.com" target="_blank">parksontheair.com</a>
+- **APRS** — <a href="https://aprs.fi" target="_blank">aprs.fi</a>
 
 ---
 
