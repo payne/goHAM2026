@@ -113,7 +113,7 @@ header: "Getting Started in HAM Radio — 2026"
 
 <a href="https://github.com/payne/goHAM2026" target="_blank">github.com/payne/goHAM2026</a>
 
-*Built: BUILD_TIMESTAMP*
+*Built: 2026-03-05 01:16 UTC*
 
 ---
 
